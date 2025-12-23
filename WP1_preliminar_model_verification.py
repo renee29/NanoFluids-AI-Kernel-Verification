@@ -1,15 +1,13 @@
 #!/usr/bin/env python3
 """
 ================================================================================
-NANOFLUIDS-AI: WP1 Preliminary Result
+NANOFLUIDS-AI: TOY MODEL VERIFICATION
 Analytical Verification of the Non-local Kernel Toy Model
 ================================================================================
 
 This script verifies the asymptotic behaviour of Gaussian convolution kernels
-under nanoconfinement, as described in:
-
-    NanoFluids-AI: Structural Inverse Problems for Nanoscale Continuum Laws
-    ERC Consolidator Grant 2026 - Part B2, WP1 (Mathematical Foundations)
+under nanoconfinement, serving as the mathematical verification suite for the
+NanoFluids-AI framework.
 
 Key Result:
     For an isotropic Gaussian kernel K_ξ confined to a slit domain Ω_L,
@@ -24,7 +22,6 @@ Physical Interpretation:
 
 Author: NanoFluids-AI Team
 License: MIT
-Repository: https://github.com/[TBD]/nanofluids-ai
 ================================================================================
 """
 #%%
@@ -328,7 +325,7 @@ def generate_figure(save=True):
     plt.tight_layout()
     
     if save:
-        filename = f'WP1_toy_model_anisotropy.{FIGURE_FORMAT}'
+        filename = f'WP1_preliminar_model_verification.{FIGURE_FORMAT}'
         fig.savefig(filename, dpi=FIGURE_DPI, format=FIGURE_FORMAT)
         print(f"\n✓ Figure saved: {filename}")
     
