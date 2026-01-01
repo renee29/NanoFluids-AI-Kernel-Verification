@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Fabregas"
+    given-names: "R."
+    email: "rfabregas@ugr.es"
+    affiliation: "NanoFluids-AI Team"
+title: "NanoFluids-AI: Non-local Kernel Verification Suite"
+version: 1.0.0
+date-released: 2025-12-23
+license: MIT
+url: "https://github.com/renee29/NanoFluids-AI-Kernel-Verification"
+repository-code: "https://github.com/renee29/NanoFluids-AI-Kernel-Verification"
