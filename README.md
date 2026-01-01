@@ -4,7 +4,7 @@
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green.svg)
 ![Method: Asymptotic Analysis](https://img.shields.io/badge/Method-Asymptotic_Analysis-purple.svg)
 ![Status: Validated](https://img.shields.io/badge/Status-Validated-brightgreen.svg)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18116082.svg)](https://doi.org/10.5281/zenodo.18116082)
 
 Analytical verification of asymptotic limits and coercivity bounds for non-local Gaussian convolution operators on bounded domains.
 
@@ -118,7 +118,7 @@ If you use this code in your research, please cite:
   year         = {2025},
   publisher    = {Zenodo},
   version      = {v1.0.0},
-  doi          = {10.5281/zenodo.XXXXXX},
+  doi          = {10.5281/zenodo.18116082},
   url          = {https://github.com/renee29/NanoFluids-AI-Kernel-Verification}
 }
 ```
