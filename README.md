@@ -113,7 +113,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{nanofluids_ai_kernel_verification_2025,
-  author       = {R. Fabregas},
+  author       = {Fabregas, R.},
   title        = {NanoFluids-AI: Non-local Kernel Verification Suite},
   year         = {2025},
   publisher    = {Zenodo},
