@@ -129,7 +129,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or collaboration inquiries, please open an issue on GitHub or contact R. Fabregas (NanoFluids-AI Team, rfabregas@ugr.es).
+For questions or collaboration inquiries, please open a GitHub issue or contact:
+
+**R. Fábregas** — rfabregas@ugr.es
 
 ---
 
