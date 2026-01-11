@@ -1,4 +1,4 @@
-# NanoFluids-AI: Non-local Kernel Verification Suite
+# ICON₁₀: Non-local Kernel Verification Suite
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green.svg)
@@ -114,7 +114,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{nanofluids_ai_kernel_verification_2025,
   author       = {Fabregas, R.},
-  title        = {NanoFluids-AI: Non-local Kernel Verification Suite},
+  title        = {ICON₁₀: Non-local Kernel Verification Suite},
   year         = {2025},
   publisher    = {Zenodo},
   version      = {v1.0.0},
